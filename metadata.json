@@ -1,0 +1,8 @@
+{
+  "name": "Movie Recommendation System",
+  "description": "Content-based movie recommendation system that suggests similar movies and genre-based picks using TMDB metadata and cosine similarity.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
